@@ -64,7 +64,3 @@ code {
   grid-template-rows: 1fr;
   /* flex-direction: row-reverse; */
 }
-
-.guess-pegs {
-  display: flex;
-}
